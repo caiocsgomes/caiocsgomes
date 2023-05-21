@@ -5,7 +5,7 @@ I'm Caio and I'm working with cloud and devops in general, building and managing
 - 🔭 I’m currently working on Itaú Unibanco
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about AWS and Python
-- 📫 How to reach me: contact@caiogomes.me
+- 📫 How to reach me: caiocsgomes@gmail.com
 - 📕 I follow a specific naming convention for my repositories:
   - template: For repositories that can be cloned and used as a template
   - labs: For repositories containing problems or challenges I have solved
