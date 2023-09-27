@@ -2,7 +2,7 @@
 
 I'm Caio and I'm working with cloud and devops in general, building and managing applications on AWS.
 
-- 🔭 I’m currently working on Itaú Unibanco
+- 🔭 I’m currently working on Transferwise
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about AWS and Python
 - 📫 How to reach me: caiocsgomes@gmail.com
