@@ -3,8 +3,8 @@
 I'm Caio and I'm working with cloud and devops in general, building and managing applications on AWS.
 <!---
 - 💬 Ask me about AWS and Python
-- 🔭 I’m currently working at Transferwise
 -->
+- 🔭 I’m currently working at Wise
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: caiocsgomes@gmail.com
 - 📕 I follow a specific naming convention for my repositories:
