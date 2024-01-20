@@ -4,7 +4,7 @@ I'm Caio and I'm working with cloud and platform engineering in general, buildin
 <!---
 - 💬 Ask me about AWS and Python
 -->
-- 🔭 I’m currently living in Estonia and working at Wise
+- 🔭 I’m from Brazil, currently living in Estonia and working at Wise
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: caiocsgomes@gmail.com
 <!--
